@@ -1,0 +1,7 @@
+"template"
+{
+	"base"		"sandbox"
+	"title"		"Template Gamemode"
+	"maps"		""
+	"menusystem"	"1"
+}
