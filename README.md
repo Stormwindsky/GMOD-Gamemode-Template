@@ -26,3 +26,6 @@ All graphical assets and media files located in this repository (such as `icon24
 >
 > **CC0 1.0 Universal Summary:**
 > The person who associated a work with this deed has dedicated the work to the public domain by waiving all of his or her rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law.
+>
+> ##### YOU CAN FOUND THE TWO LICENSES HERE:
+> https://github.com/Stormwindsky/GMOD-Gamemode-Template/tree/main/template
