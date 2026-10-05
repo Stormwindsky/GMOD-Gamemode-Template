@@ -28,4 +28,10 @@ All graphical assets and media files located in this repository (such as `icon24
 > The person who associated a work with this deed has dedicated the work to the public domain by waiving all of his or her rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law.
 >
 > ##### YOU CAN FOUND THE TWO LICENSES HERE:
-> https://github.com/Stormwindsky/GMOD-Gamemode-Template/tree/main/template
+> [MIT-0 (Source Code License)](https://github.com/Stormwindsky/GMOD-Gamemode-Template?tab=MIT-0-1-ov-file)
+>
+> [CC0 1.0 (Media license)](https://github.com/Stormwindsky/GMOD-Gamemode-Template?tab=CC0-1.0-2-ov-file)
+>
+> ##### YOU CAN DOWNLOAD THE ADDON HERE:
+>
+> [Here](https://gitfolderdownloader.github.io/?=https://github.com/Stormwindsky/GMOD-Gamemode-Template/tree/main/template)
