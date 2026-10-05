@@ -4,7 +4,7 @@ This is a template created to help you build your own Garry's Mod Gamemode.
 
 ## License & Usage
 
-This project utilizes a dual-licensing structure to properly cover both the source code and media assets contained in the repository.
+This project using a dual-licensing structure to properly cover both the source code and media assets contained in the repository.
 
 ### Source Code: MIT No Attribution (MIT-0)
 
